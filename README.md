@@ -23,6 +23,7 @@ The sampling process includes:
 This approach combines geographic stratification with random sampling to improve coverage across different areas of Isla Vista.
 
 ## Geographic Design
+<img width="959" height="729" alt="Screenshot 2026-09-23 at 6 26 27 PM" src="https://github.com/user-attachments/assets/3943b723-3e87-4b75-852d-d2c47eebfe60" />
 
 Geographic zones were developed using maps of Isla Vista and differences in characteristics such as housing density, building type, and location.
 
