@@ -4,7 +4,7 @@ A spatial research and stratified random sampling project designed to study tena
 
 ## Project Status
 
-**In Progress : 2026**
+**In Progress - 2026**
 
 Geographic sampling design and housing-unit census development are underway. Survey collection and spatial/statistical analysis will follow.
 
