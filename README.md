@@ -47,4 +47,4 @@ Sampling design and survey development are currently in progress. Future work wi
 - `analysis/` — reproducible sampling and analysis code
 - `data/` — aggregated and de-identified data
 - `maps/` — geographic sampling-zone visualizations
-- `docs/` — study methodology and supporting documentation
+- `docs/` — sampling methodology and research design documentation
