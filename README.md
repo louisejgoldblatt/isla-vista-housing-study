@@ -8,6 +8,14 @@ This project develops a sampling framework for a tenant-centered study of housin
 
 The study focuses on tenant-reported experiences including housing conditions, utilities, landlord responsiveness, and overall housing satisfaction.
 
+## Project Status
+
+**In Progress — 2026**
+
+Geographic sampling design and housing-unit census development are underway. Survey collection and spatial/statistical analysis will follow.
+
+This repository currently documents the study design and sampling methodology. Unit-level sampling information is withheld while the study is ongoing.
+
 ## Sampling Methodology
 
 To improve geographic representation, Isla Vista was divided into 14 geographic zones that serve as sampling strata.
