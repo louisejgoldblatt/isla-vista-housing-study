@@ -2,12 +2,6 @@
 
 A spatial research and stratified random sampling project designed to study tenant-reported housing conditions across Isla Vista, California.
 
-## Project Overview
-
-This project develops a sampling framework for a tenant-centered study of housing conditions in Isla Vista. The goal is to collect geographically representative survey data while reducing clustering and selection bias.
-
-The study focuses on tenant-reported experiences including housing conditions, utilities, landlord responsiveness, and overall housing satisfaction.
-
 ## Project Status
 
 **In Progress — 2026**
@@ -15,6 +9,13 @@ The study focuses on tenant-reported experiences including housing conditions, u
 Geographic sampling design and housing-unit census development are underway. Survey collection and spatial/statistical analysis will follow.
 
 This repository currently documents the study design and sampling methodology. Unit-level sampling information is withheld while the study is ongoing.
+
+
+## Project Overview
+
+This project develops a sampling framework for a tenant-centered study of housing conditions in Isla Vista. The goal is to collect geographically representative survey data while reducing clustering and selection bias.
+
+The study focuses on tenant-reported experiences including housing conditions, utilities, landlord responsiveness, and overall housing satisfaction.
 
 ## Sampling Methodology
 
